@@ -1,6 +1,6 @@
 👋 Hi, I’m Sachidanand Shah
 
-:globe_with_meridians: Ahmedabad, Gujarat
+   :globe_with_meridians: Ahmedabad, Gujarat
 
 - 🌱 I’m currently learning Software development Skills
 - :man_student:	I want to become Software Engineer
