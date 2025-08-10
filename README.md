@@ -48,9 +48,12 @@
 
 ---
 
-<!-- Footer Quote -->
+<!-- Footer Quote (typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=⭐+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+⭐&v=2" alt="Typing SVG Footer"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.;It%27s+not+a+bug+-+it%27s+an+undocumented+feature.;I+don%27t+always+test+my+code%2C+but+when+I+do%2C+I+do+it+in+production.;My+code+works%3B+I+have+no+idea+why.;99+little+bugs+in+the+code%2C+take+one+down%2C+patch+it+around%2C+127+little+bugs+in+the+code.;git+commit+-m+%22fixed+it%22+-+lies+we+tell+ourselves.;If+at+first+you+don%27t+succeed%2C+call+it+a+prototype.;Ctrl%2BS+is+my+cardio.;Refactoring%3A+turning+working+code+into+better+looking+broken+code.;Debugging%3A+where+you+stare+at+the+code+until+the+bug+admits+its+mistake."
+    alt="Typing SVG Footer: rotating sarcastic coding quotes"
+  />
 </p>
 
 
